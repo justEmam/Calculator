@@ -3,6 +3,10 @@
     src: url(digital-7.ttf);
 }
 
+html {
+    height: 50%;
+}
+
 #numbercontainer {
     display: flex;
     width: 180px;
