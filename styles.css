@@ -9,8 +9,8 @@ html {
 
 #numbercontainer {
     display: flex;
-    width: 180px;
-    height: 180px;
+    width: 50vw;
+    height: 50vh;
     box-sizing: border-box;
     flex-wrap: wrap;
     justify-content: center;
@@ -37,7 +37,7 @@ html {
     box-sizing: border-box;
     background-color: hsl(224, 36%, 15%); /* Missing semicolon fixed */
     height: 40px;
-    width: 180px;
+    width: 50vw;
     margin: 0 auto;
     font-family: calcFont;
     padding-top: 12px;
